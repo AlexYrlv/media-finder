@@ -25,4 +25,4 @@ git clone https://github.com/AlexYrlv/search-media
 
 - pip install -r requirements.txt
 
-### 4. Запуск El
+
